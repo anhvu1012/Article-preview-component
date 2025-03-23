@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/article-preview-component-using-pure-css-fH19Yl0Shu)
 - Live Site URL: [GitHub Page](https://anhvu1012.github.io/Article-preview-component/)
 
 ## My process
